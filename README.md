@@ -9,6 +9,7 @@ This project is used for learning genetics of its basic knowledge and analysis. 
 ### Basic Genetics
  #### Resources
  * [From learn genetics] (https://learn.genetics.utah.edu/content/basics/)
+ * [getting-started-with-genomics-tools-and-resources] (https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
 
 ### Paper_Redraw
  ####  Article
